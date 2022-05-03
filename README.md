@@ -2,7 +2,7 @@
 - 👀 I’m sad ..
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me liu258088@qq.com
+- 📫
 
 <!---
 suxai/suxai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
